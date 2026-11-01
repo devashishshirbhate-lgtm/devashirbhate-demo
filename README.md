@@ -1,4 +1,4 @@
 # devashirbhate-demo
 This is my first Git Repository 
 <br>
-author: devashish shirbhate 
+Author: Devashish (Python Devloper)
