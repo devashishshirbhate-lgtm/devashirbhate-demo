@@ -1,4 +1,3 @@
 # devashirbhate-demo
-This is my first Git Repository
-<br>
-author: deva shirbhate 
+This is my first Git Repository 
+author: devashish shirbhate 
